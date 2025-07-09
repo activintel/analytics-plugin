@@ -1,7 +1,7 @@
 # 📊 Data Analytics Plugin for ACTIVI
 
 **Plugin Type**: Multi-node  
-**Platform**: [Active Intelligence Automation Systems](https://activi.hallmark-ai.com)  
+**Platform**: [Active Intelligence Automation Systems (activi.ai)](https://activi.ai)  
 **Maintainer**: [Activi Team](https://activi.ai)
 
 ---
