@@ -1,8 +1,8 @@
 # 📊 Data Analytics Plugin for ACTIVI
 
 **Plugin Type**: Multi-node  
-**Platform**: [ACTIVI Workflow Automation Platform](https://activi.hallmark-ai.com)  
-**Maintainer**: [Third Ray, Inc.](https://thirdray.ai)
+**Platform**: [Active Intelligence Automation Systems](https://activi.hallmark-ai.com)  
+**Maintainer**: [Activi Team](https://activi.ai)
 
 ---
 
